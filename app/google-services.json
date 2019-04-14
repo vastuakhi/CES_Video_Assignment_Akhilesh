@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908247646589",
+    "firebase_url": "https://ces-assignment.firebaseio.com",
+    "project_id": "ces-assignment",
+    "storage_bucket": "ces-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908247646589:android:f3ba53b5c8d8a4bb",
+        "android_client_info": {
+          "package_name": "com.example.akhilesh_cesvideoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908247646589-retsgbubm97kg28drle14hkpqe5vlo9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akhilesh_cesvideoapplication",
+            "certificate_hash": "1029cd759136f1547097e1de14e04c2f86961fae"
+          }
+        },
+        {
+          "client_id": "908247646589-l35qis367qj40gooumoii3rnuio2rll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MN9eoU_reRHHgKq5tpSOH_qWB3Y4Jxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908247646589-l35qis367qj40gooumoii3rnuio2rll0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

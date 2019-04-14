@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Videos</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="no_internet_connection">Opps, you are not connected to internet.</string>
+    <string name="progress_message">Relax while I am working.</string>
+    <string name="video_files">Video Files</string>
+    <string name="pending">Upload Status: Pending</string>
+    <string name="uploaded">Upload Status: Uploaded</string>
+    <string name="uploading">Update Status: Upload in progress</string>
+    <string name="uploading_google_drive">Take a deep breath while I upload the report in drive.</string>
+    <string name="alert_title">Upload Video</string>
+    <string name="upload">Upload</string>
+    <string name="close">Close</string>
+    <string name="upload_message">Do you wants to upload this video in Google Drive ?</string>
+</resources>
